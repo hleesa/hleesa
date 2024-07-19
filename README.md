@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lshhi5)](https://solved.ac/lshhi5)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshhi5)](https://solved.ac/lshhi5)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lshhi100)
 
