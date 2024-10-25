@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hleesa&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hleesa&theme=dark)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshhi5)](https://solved.ac/lshhi5)
 
